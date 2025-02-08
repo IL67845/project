@@ -17,7 +17,7 @@
 ![нейро](https://github.com/user-attachments/assets/ff434b5b-ec60-4878-a1dd-7020cae09bd3)
 ## Тестирование нейросети
 
-Загружаем фото ноутбука и пк для тестирования нейросети.
+Загружаем фото ноутбука и ПК для тестирования нейросети.
 ![тест1](https://github.com/user-attachments/assets/4a41cdb2-0656-4e0b-96de-5422bfd85348)
 
 
